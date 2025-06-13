@@ -5,7 +5,7 @@ import ReportList from './components/ReportList';
 function App() {
   return (
     <div className="App">
-      <h1>Smart Waste Management System</h1>
+      <h1>Smart Waste Management</h1>
       <WasteReportForm />
       <ReportList />
     </div>
